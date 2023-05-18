@@ -25,7 +25,7 @@ body {
 }
 
 .container {
-  border-bottom: 1px solid #fff;
+  overflow:hidden;
 }
 
 .container h1 {
